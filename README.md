@@ -14,7 +14,7 @@ i tried to structure the files in a way that separates course materials, weekly 
      * [TRAI_25_XN_jlukak.java](weekN/submission/TRAI_25_XN_jlukak.java)
      * [TRAI_25_XN_test.java](weekN/submission/TRAI_25_XN_test.java)
 
-## Automated Scripts
+## automated scripts
 
 ### 1. `manage_dsa_tasks.sh`
 **Function**: this is the main entry point for starting work on any task. It checks for existing files, triggers file preparation if needed, and handles compilation and execution of the test cases.
