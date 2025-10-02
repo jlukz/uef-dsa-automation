@@ -1,5 +1,5 @@
 # uef-dsa-automation
-this repo contains automation scripts and project structure for managing assignments in the Data Structures and Algorithms (DSA) course at UEF becuase it is very annoying...both the course and setting up FOR the course, weekly. The system automates file setup, naming, data scraping, compilation, and execution, ensuring a fast, consistent, and correctly formatted workflow for every assignment.
+this here repo holds automation scripts and project structure for managing assignments in the Data Structures and Algorithms (DSA) course at UEF, becuase it is very annoying...both the course and setting up FOR the course, weekly. The system automates file setup, naming, data scraping, compilation, and execution, ensuring a fast, consistent, and correctly formatted workflow for every assignment.
 
 ## proj structure
 i tried to structure the files in a way that separates course materials, weekly assignments folders and house the custom automation tools at the root level.
